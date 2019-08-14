@@ -8,11 +8,11 @@ myheading = "The most popular drink at Starbucks"
 mytitle = "Top 3 Drinks"
 mylabels = ['Drip Coffee', 'Double Chocolaty Chip Crème Frappuccino', 'Chai tea latte']
 myvalues = [30,20,7]
-color1 = 'e11383'
-color2 = 'f5821f'
+color1 = '067655'
+color2 = 'black'
 color3 = '683817'
 tabtitle = 'starbucks'
-sourceurl = 'https://brandpalettes.com/dunkin-donuts-color-codes/'
+sourceurl = 'https://brandpalettes.com/starbucks-coffee-color-codes/'
 githublink = 'https://github.com/austinlasseter/dash-piechart-example'
 
 ########### Set up the chart
