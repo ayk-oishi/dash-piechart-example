@@ -5,7 +5,7 @@ import plotly.graph_objs as go
 
 ########### Define your variables ######
 myheading = "The most popular drink at Starbucks"
-mytitle = "Top 3 Drinks"
+mytitle = "Top 4 Drinks"
 mylabels = ['Drip Coffee', 'Double Chocolaty Chip Crème Frappuccino', 'Chai tea latte', 'water']
 myvalues = [30,20,7,1]
 color1 = '067655'
